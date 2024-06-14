@@ -92,15 +92,15 @@ export const PROJECTS = [
     technologies: ["Typescript", "React", "Node.js", "MongoDB", "Express.js"],
   },
   
-  {
-    title: "Front-end: Blog Website - WORKING ON THIS SITE",
-    image: project1, // Placeholder image, replace with the actual image if available
-    link: "https://github.com/omkarjagtap2212/appwriteblog", // Replace with the actual link
-    code: "https://github.com/omkarjagtap2212/appwriteblog", // Replace with the actual code link
-    description:
-      "Designed and developed a clean and modern blog website using HTML, CSS, and JavaScript. Optimized website for speed and user experience using server-side rendering. Utilized Appwrite (BaaS) as backend as a service and deployed on GitHub Pages via GitHub Actions.",
-    technologies: ["React.js", "Redux Toolkit", "Appwrite", "Tailwind CSS"],
-  },
+  // {
+  //   title: "Front-end: Blog Website - WORKING ON THIS SITE",
+  //   image: project1, // Placeholder image, replace with the actual image if available
+  //   link: "https://github.com/omkarjagtap2212/appwriteblog", // Replace with the actual link
+  //   code: "https://github.com/omkarjagtap2212/appwriteblog", // Replace with the actual code link
+  //   description:
+  //     "Designed and developed a clean and modern blog website using HTML, CSS, and JavaScript. Optimized website for speed and user experience using server-side rendering. Utilized Appwrite (BaaS) as backend as a service and deployed on GitHub Pages via GitHub Actions.",
+  //   technologies: ["React.js", "Redux Toolkit", "Appwrite", "Tailwind CSS"],
+  // },
   {
     title: "Backend: Streaming Platform",
     image: project2, // Placeholder image, replace with the actual image if available
