@@ -85,7 +85,7 @@ export const PROJECTS = [
   {
     title: "Ecommerce website - for Upwork client",
     image: project1,
-    link: "https://test-frontend-teal.vercel.app/",
+    link: "https://ecom.omkarjagtap.work",
     code: "https://github.com/omkarjagtap2212/test-frontend",
     description:
       "I built an ecommerce website for selling items similar to Amazon, Flipkart, and Myntra. The platform includes features like a hybrid login system using Firebase and MongoDB for extra security. It also has a product dashboard where admin users can add or remove products and manage shipping features dynamically. Additionally, the dashboard provides real-time stock monitoring.",
