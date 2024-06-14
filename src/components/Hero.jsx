@@ -1,5 +1,5 @@
 import profilePic from "../assets/OMKAR.jpg"
-import { HERO_CONTENT } from './../constant/index.js';
+import { HERO_CONTENT } from '../constant/index.js';
 import { motion } from "framer-motion"
 
 const container = (delay) => ({
